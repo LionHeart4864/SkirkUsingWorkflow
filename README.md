@@ -91,9 +91,8 @@ This repository shows how to set up and run a Skirk workflow using GitHub Action
 
 2. Copy the generated Skirk client configuration into the application.
 
+**Note: Disable the workflow whenever you do not need to run it using Skirk**
 ---
-
-## Note: Disable the workflow whenever you do not need to run it using Skirk.
 
 ## Credits
 
