@@ -1,6 +1,6 @@
 # SkirkUsingWorkflow
 
-This part shows how to set up and run a Skirk workflow using GitHub Actions and GitHub Codespaces.
+This repository shows how to set up and run a Skirk workflow using GitHub Actions and GitHub Codespaces.
 
 ## Requirements
 
