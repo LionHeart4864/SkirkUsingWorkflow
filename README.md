@@ -93,6 +93,8 @@ This repository shows how to set up and run a Skirk workflow using GitHub Action
 
 ---
 
+## Note: Disable the workflow whenever you do not need to run it using Skirk.
+
 ## Credits
 
 Special thanks to entity["people","ShahabSL","Creator of the Skirk project"] for creating the Skirk project.
